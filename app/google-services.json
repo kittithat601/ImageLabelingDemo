@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "986216566342",
+    "firebase_url": "https://mlkittest-f9040.firebaseio.com",
+    "project_id": "mlkittest-f9040",
+    "storage_bucket": "mlkittest-f9040.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986216566342:android:94168d59b0028fca",
+        "android_client_info": {
+          "package_name": "com.gisid.imagelabelingdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986216566342-phu0ng59brcu5efr8kfr3shmnjdisoil.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcIDBaRm4j1V4QW44zui_Edj2UTwsOI6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986216566342-phu0ng59brcu5efr8kfr3shmnjdisoil.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
